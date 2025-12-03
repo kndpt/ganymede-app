@@ -1,5 +1,15 @@
 # ganymede-app
 
+## 1.16.0
+
+### Minor Changes
+
+- 06a71c7: Raccourcis clavier customisables depuis les paramètres. Modification des raccourcis avec application immédiate sans redémarrage.
+
+### Patch Changes
+
+- f084920: Backup automatique de la configuration avant reset via raccourci. Fichier horodaté au format `conf_yyyy_mm_dd_hh_mm_ss.json` pour récupération en cas d'erreur.
+
 ## 1.15.0
 
 ### Minor Changes
